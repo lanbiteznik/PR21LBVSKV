@@ -37,4 +37,11 @@ Izrisali smo še graf naravnega prirasta na 1000 prebivalcev. Naravni prirast na
 
 ![image](https://user-images.githubusercontent.com/75035799/163205258-769a5982-4a2a-4150-b86f-4c8eb2dd4f44.png)
 
-###
+### Naravni prirast občine z največjim povprečnim naravnim prirastom (Domžale) in najmanjšim (Maribor)
+Poiskali smo 2 občine - 1 z največjim pozitivnim in eno z največjim negativnim naravnim prirastom. Rezultati so naslednji:
+![image](https://user-images.githubusercontent.com/75035799/163210836-a8c42a0f-d22f-4893-a193-f4cfec45858d.png)
+Vidimo, da podatki za Maribor in Domžale večino časa stagnirajo, torej imajo Domžale že vrsto let pozitiven naraven prirastek in Maribor negativen. Nekje leta 2019 se podatki za Maribor še poslabšajo (Covid?)
+
+### Za konec smo prikazali še podatke glede na spol
+![image](https://user-images.githubusercontent.com/75035799/163211864-8017b6c2-9379-4b72-be6c-845d6156240c.png)
+Vidimo, da je povprečen naravni prirastek za ženske in moške skozi čas zelo podoben.
