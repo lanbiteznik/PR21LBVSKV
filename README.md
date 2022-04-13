@@ -49,3 +49,16 @@ Vidimo, da podatki za Maribor in Domžale večino časa stagnirajo, torej imajo 
 ![image](https://user-images.githubusercontent.com/75035799/163211864-8017b6c2-9379-4b72-be6c-845d6156240c.png)
 
 Vidimo, da je povprečen naravni prirastek za ženske in moške skozi čas zelo podoben.
+
+### Dodali smo še podatke o povprečni bruto mesečni plači v Sloveniji čez leta
+Podatki so na voljo za leta 2005 - 2021.
+
+![image](https://user-images.githubusercontent.com/75035799/163212551-470e7678-6c62-4626-a6f1-53f3d3fa3ab5.png)
+
+Vidimo, da se je povprečna plača v zadnjih 16 letih zvišala za skoraj polovico!
+
+### Če izrišemo še graf za občino z največjo povprečno mesečno bruto plačo in najmanjšo ter ju primerjamo:
+
+![image](https://user-images.githubusercontent.com/75035799/163214117-393ad4fa-d472-4367-a816-5f236506566d.png)
+
+Vidimo, da so se povprečne plače v obeh občinah zelo povečale čez leta. Gornji Petrovci sicer nekaj manj (med leti 2010 in 2018 povsem stagnira), medtem ko se v občini Cerklje na Gorenjskem plača veliko bolj spreminja, večino časa se viša.
