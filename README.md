@@ -65,7 +65,8 @@ Vidimo, da se je povprečna plača v zadnjih 16 letih zvišala za skoraj polovic
 Vidimo, da so se povprečne plače v obeh občinah zelo povečale čez leta. Gornji Petrovci sicer nekaj manj (med leti 2010 in 2018 povsem stagnira), medtem ko se v občini Cerklje na Gorenjskem plača veliko bolj spreminja, večino časa se viša.
 
 ### Skupno število ljudi z visokošolsko ali višješolsko izobrazbo v Sloveniji
-Dodali smo še graf, ki prikazuje skupno število ljudi z visokošolsko ali višješolsko izobrazbo med leti 2005 in 2021.
+Dodali smo še graf, ki prikazuje skupno število ljudi z visokošolsko ali višješolsko izobrazbo med leti 2005 in 2021:
+
 ![download](https://user-images.githubusercontent.com/65236334/163228248-6fe0bc6a-38ac-47ae-8f65-834fcf0eda46.png)
 
 Vidimo lahko da se je skupno število v zadnjih 17 letih skoraj podvojilo.
