@@ -18,7 +18,7 @@ S to seminarsko nalogo smo si zastavili vprašanja:
 1.  Ali je mogoče napovedati naravni prirast prebivalstva za prihodnost.
 2.  Ali obstaja povezava med povprečno plačo in številom živorojenih otrok.
 3.  Ali obstaja povezava med doseženo izobrazbo in naravnim prirastom  
-4.  
+
 Poleg teh glavnih vprašanj bomo skušali postaviti še več manjših podvprašanj, tako da lahko iz podatkov razberemo čimveč.
 
 ## Cilj in metode
