@@ -1,0 +1,281 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="windows-1250";
+LANGUAGE="sl";
+LANGUAGES="sl","en";
+CREATION-DATE="20040331 10:30";
+DECIMALS=0;
+MATRIX="05W1006S";
+COPYRIGHT=YES;
+SUBJECT-CODE="05W10";
+SUBJECT-AREA="PREBIVALSTVO";
+DESCRIPTION="Prebivalstvo po veroizpovedi, obcine, Slovenija, popis 2002";
+TITLE="Prebivalstvo, popis 2002 po: OBCINA ,  VEROIZPOVED";
+CONTENTS="Prebivalstvo, popis 2002";
+STUB="OBCINA";
+HEADING="VEROIZPOVED";
+VALUES("OBCINA")="SLOVENIJA","Ajdovscina","Beltinci","Benedikt","Bistrica ob Sotli","Bled","Bloke","Bohinj","Borovnica","Bovec","Braslovce","Brda","Brezovica","Brezice","Cankova","Celje","Cerklje na Gorenjskem","Cerknica","Cerkno","Cerkvenjak","Crensovci",
+"Crna na Koroskem","Crnomelj","Destrnik","Divaca","Dobje","Dobrepolje","Dobrna","Dobrova - Polhov Gradec","Dobrovnik","Dol pri Ljubljani","Dolenjske Toplice","Domzale","Dornava","Dravograd","Duplek","Gorenja vas - Poljane","Gorisnica",
+"Gornja Radgona","Gornji Grad","Gornji Petrovci","Grad","Grosuplje","Hajdina","Hoce - Slivnica","Hodos","Horjul","Hrastnik","Hrpelje - Kozina","Idrija","Ig","Ilirska Bistrica","Ivancna Gorica","Izola","Jesenice","Jezersko","Jursinci","Kamnik",
+"Kanal","Kidricevo","Kobarid","Kobilje","Kocevje","Komen","Komenda","Koper","Kostel","Kozje","Kranj","Kranjska Gora","Krizevci","Krsko","Kungota","Kuzma","Lasko","Lenart","Lendava","Litija","Ljubljana","Ljubno","Ljutomer","Logatec",
+"Loska dolina","Loski Potok","Lovrenc na Pohorju","Luce","Lukovica","Majsperk","Maribor","Markovci","Medvode","Menges","Metlika","Mezica","Miklavz na Dravskem polju","Miren - Kostanjevica","Mirna Pec","Mislinja","Moravce","Moravske Toplice","Mozirje",
+"Murska Sobota","Muta","Naklo","Nazarje","Nova Gorica","Novo mesto","Odranci","Oplotnica","Ormoz","Osilnica","Pesnica","Piran","Pivka","Podcetrtek","Podlehnik","Podvelka","Polzela","Postojna","Prebold","Preddvor","Prevalje","Ptuj","Puconci",
+"Race - Fram","Radece","Radenci","Radlje ob Dravi","Radovljica","Ravne na Koroskem","Razkrizje","Ribnica","Ribnica na Pohorju","Rogaska Slatina","Rogasovci","Rogatec","Ruse","Selnica ob Dravi","Semic","Sevnica","Sezana","Slovenj Gradec",
+"Slovenska Bistrica","Slovenske Konjice","Sodrazica","Solcava","Starse","Sveta Ana","Sveti Andraz v Slov. goricah","Sveti Jurij ob Scavnici","Salovci","Sempeter - Vrtojba","Sencur","Sentilj","Sentjernej","Sentjur","Skocjan","Skofja Loka",
+"Skofljica","Smarje pri Jelsah","Smartno ob Paki","Sostanj","Store","Tabor","Tisina","Tolmin","Trbovlje","Trebnje","Trnovska vas","Trzin","Trzic","Turnisce","Velenje","Velika Polana","Velike Lasce","Verzej","Videm","Vipava","Vitanje","Vodice","Vojnik",
+"Vransko","Vrhnika","Vuzenica","Zagorje ob Savi","Zavrc","Zrece","Zalec","Zelezniki","Zetale","Ziri","Zirovnica","Zuzemberk";
+VALUES("VEROIZPOVED")="Veroizpoved - SKUPAJ","Opredeljeni po veroizpovedi - skupaj","katoliska","evangelicanska in druge protestantske","pravoslavna","islamska","druge veroizpovedi","Je vernik, ne pripada nobeni veroizpovedi","Ni vernik, ateist","Ni zelel odgovoriti","Neznano";
+CODES("OBCINA")="001","002","003","004","005","006","007","008","009","010","011","012","013","014","015","016","017","018","019","020","021","022","023","024","025","026","027","028","029","030","031","032","033","034","035","036","037","038","039","040","041","042",
+"043","044","045","046","047","048","049","050","051","052","053","054","055","056","057","058","059","060","061","062","063","064","065","066","067","068","069","070","071","072","073","074","075","076","077","078","079","080","081","082","083","084",
+"085","086","087","088","089","090","091","092","093","094","095","096","097","098","099","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126",
+"127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168",
+"169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193";
+CODES("VEROIZPOVED")="01","02","03","04","05","06","07","08","09","10","11";
+ELIMINATION("OBCINA")="SLOVENIJA";
+ELIMINATION("VEROIZPOVED")="Veroizpoved - SKUPAJ";
+LAST-UPDATED="20220124 10:30";
+UNITS="stevilo";
+CONTACT="Statisticni urad RS, T: (01) 241 64 04, E: gp.surs@gov.si";
+DATABASE="SI-STAT";
+SOURCE="Statisticni urad Republike Slovenije";
+NOTEX="#Popis prebivalstva, gospodinjstev in stanovanj 2002. # #Uporaba in objava podatkov dovoljena le z navedbo vira. #";
+NOTE("OBCINA")="Podatki so teritorialno razvrsceni po uredbi o Standardni klasifikaciji teritorialnih enot [<A class='seznam' HREF=http://www.stat.si/StatWeb/glavnanavigacija/metode-in-klasifikacije/klasifikacije TARGET=_blank>opis in pojasnila</A>], raven SKTE 5. Podat"
+"ki o spremembah posameznih obcin so dostopni na <A class=seznam HREF=http://www.stat.si/StatWeb/glavnanavigacija/metode-in-klasifikacije/klasifikacije/spremembe-obmocij-obcin TARGET=_blank>povezavi</A>. V Seznamu obcin s spremembami obmocij obcin od leta"
+" 1995 dalje je opisana vrsta spremembe, naveden je datum, s katerim je opisana teritorialna sprememba upostevana pri teritorialnem razvrscanju enot za statisticne namene ter naveden Uradni list, v katerem so bile objavljene omenjene teritorialne opombe. "
+"V seznamu obcin je navedeno zadnje veljavno stanje imen obcin.#";
+DATASYMBOL1="N";
+DATASYMBOL2="-";
+DATASYMBOL4="z";
+SUBJECT-AREA[en]="PREBIVALSTVO";
+DESCRIPTION[en]="Population by religion, municipalities, Slovenia, census 2002";
+TITLE[en]="Population, census 2002 by MUNICIPALITY and RELIGION";
+CONTENTS[en]="Population, census 2002";
+STUB[en]="MUNICIPALITY";
+HEADING[en]="RELIGION";
+VALUES[en]("MUNICIPALITY")="SLOVENIA","Ajdovscina","Beltinci","Benedikt","Bistrica ob Sotli","Bled","Bloke","Bohinj","Borovnica","Bovec","Braslovce","Brda","Brezovica","Brezice","Cankova","Celje","Cerklje na Gorenjskem","Cerknica","Cerkno","Cerkvenjak","Crensovci","Crna na Koroskem",
+"Crnomelj","Destrnik","Divaca","Dobje","Dobrepolje","Dobrna","Dobrova - Polhov Gradec","Dobrovnik","Dol pri Ljubljani","Dolenjske Toplice","Domzale","Dornava","Dravograd","Duplek","Gorenja vas - Poljane","Gorisnica","Gornja Radgona","Gornji Grad",
+"Gornji Petrovci","Grad","Grosuplje","Hajdina","Hoce - Slivnica","Hodos","Horjul","Hrastnik","Hrpelje - Kozina","Idrija","Ig","Ilirska Bistrica","Ivancna Gorica","Izola","Jesenice","Jezersko","Jursinci","Kamnik","Kanal","Kidricevo","Kobarid",
+"Kobilje","Kocevje","Komen","Komenda","Koper","Kostel","Kozje","Kranj","Kranjska Gora","Krizevci","Krsko","Kungota","Kuzma","Lasko","Lenart","Lendava","Litija","Ljubljana","Ljubno","Ljutomer","Logatec","Loska dolina","Loski Potok",
+"Lovrenc na Pohorju","Luce","Lukovica","Majsperk","Maribor","Markovci","Medvode","Menges","Metlika","Mezica","Miklavz na Dravskem polju","Miren - Kostanjevica","Mirna Pec","Mislinja","Moravce","Moravske Toplice","Mozirje","Murska Sobota","Muta","Naklo",
+"Nazarje","Nova Gorica","Novo mesto","Odranci","Oplotnica","Ormoz","Osilnica","Pesnica","Piran","Pivka","Podcetrtek","Podlehnik","Podvelka","Polzela","Postojna","Prebold","Preddvor","Prevalje","Ptuj","Puconci","Race - Fram","Radece","Radenci",
+"Radlje ob Dravi","Radovljica","Ravne na Koroskem","Razkrizje","Ribnica","Ribnica na Pohorju","Rogaska Slatina","Rogasovci","Rogatec","Ruse","Selnica ob Dravi","Semic","Sevnica","Sezana","Slovenj Gradec","Slovenska Bistrica","Slovenske Konjice",
+"Sodrazica","Solcava","Starse","Sveta Ana","Sveti Andraz v Slov. goricah","Sveti Jurij ob Scavnici","Salovci","Sempeter - Vrtojba","Sencur","Sentilj","Sentjernej","Sentjur","Skocjan","Skofja Loka","Skofljica","Smarje pri Jelsah","Smartno ob Paki",
+"Sostanj","Store","Tabor","Tisina","Tolmin","Trbovlje","Trebnje","Trnovska vas","Trzin","Trzic","Turnisce","Velenje","Velika Polana","Velike Lasce","Verzej","Videm","Vipava","Vitanje","Vodice","Vojnik","Vransko","Vrhnika","Vuzenica","Zagorje ob Savi",
+"Zavrc","Zrece","Zalec","Zelezniki","Zetale","Ziri","Zirovnica","Zuzemberk";
+VALUES[en]("RELIGION")="Total","Declared by religion - total","Catholic","Evangelical and other Protestant","Orthodox","Islam","other religion","Believer but belongs to no religion","Unbeliever, atheist","Did no want to reply","Unknown";
+CODES[en]("MUNICIPALITY")="001","002","003","004","005","006","007","008","009","010","011","012","013","014","015","016","017","018","019","020","021","022","023","024","025","026","027","028","029","030","031","032","033","034","035","036","037","038","039","040","041","042",
+"043","044","045","046","047","048","049","050","051","052","053","054","055","056","057","058","059","060","061","062","063","064","065","066","067","068","069","070","071","072","073","074","075","076","077","078","079","080","081","082","083","084",
+"085","086","087","088","089","090","091","092","093","094","095","096","097","098","099","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126",
+"127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168",
+"169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193";
+CODES[en]("RELIGION")="01","02","03","04","05","06","07","08","09","10","11";
+ELIMINATION[en]("MUNICIPALITY")="SLOVENIA";
+ELIMINATION[en]("RELIGION")="Total";
+LAST-UPDATED[en]="20220124 10:30";
+UNITS[en]="number";
+CONTACT[en]="Statistical Office of the Republic of Slovenia, T: +386 1 241 64 04, E: gp.surs@gov.si";
+DATABASE[en]="SI-STAT";
+SOURCE[en]="Statistical Office of Republic Slovenia";
+NOTEX[en]="#, Census of Population, Households and Housing, 2002 # Use and publication of data is allowed provided the source is acknowledged";
+NOTE[en]("MUNICIPALITY")="Data are territorially classified according to the Decree on the Standard Classification of Territorial Units <A class='seznam' HREF=http://www.stat.si/StatWeb/en/mainnavigation/methods-and-classifications/classifications  TARGET=_blank>description and e"
+"xplanations</A>, level SKTE 5. Data on changes of individual municipalities are available at the <A class=seznam HREF=http://www.stat.si/StatWeb/en/mainnavigation/methods-and-classifications/classifications/slovene-municipalities  TARGET=_blank>link</A>."
+" In the list Slovene municipalities [by alphabet] and description on their territorial changes since 1995 the type of change is described together with the date when the described territorial change was taken into account in the territorial classificatio"
+"n of units for statistical purposes and the Official Journal in which the mentioned territorial changes were published. In the list of municipalities the last valid situation regarding the names of municipalities is stated.#";
+DATASYMBOL1[en]="N";
+DATASYMBOL2[en]="-";
+DATASYMBOL4[en]="z";
+DATA=
+1964036 1248988 1135626 16135 45908 47488 3831 68714 199264 307973 139097 
+18095 13468 12830 nan 217 402 nan 474 998 1876 1279 
+8256 7383 7307 57 nan 9 nan 36 92 437 308 
+2084 1525 1522 nan nan nan nan nan 26 279 234 
+1460 1191 1180 nan 5 nan nan 24 18 133 94 
+10899 6203 5782 65 133 176 47 587 1420 2049 640 
+1578 1196 1189 nan nan nan nan 44 79 182 77 
+5222 3629 3472 6 nan 80 nan 150 356 785 302 
+3839 2538 2315 nan 146 nan 7 155 352 550 244 
+3138 1778 1740 nan nan 17 nan 163 481 520 196 
+4933 3582 3559 nan nan nan 6 86 191 831 243 
+5765 3607 3564 nan 21 14 nan 180 547 940 491 
+9334 6000 5731 18 104 127 20 289 1020 1391 634 
+23253 15986 15639 19 163 114 51 741 1562 3420 1544 
+2067 1852 1766 nan nan nan nan 10 41 81 83 
+48081 28840 25456 73 1972 1225 114 1855 5094 8073 4219 
+6369 5139 5047 nan nan 48 nan 122 262 644 202 
+10284 6708 6314 6 211 165 12 342 1152 1545 537 
+5040 3540 3527 5 nan nan nan 138 328 721 313 
+2046 1385 1379 nan nan nan nan 59 50 397 155 
+4080 3469 3452 9 nan nan nan 49 52 303 207 
+3616 2521 2443 9 nan 36 nan 135 223 557 180 
+14580 9964 9439 5 230 270 20 365 1104 1902 1245 
+2496 1893 1890 nan nan nan nan nan 59 401 89 
+3829 2353 2075 nan 160 112 nan 121 451 656 248 
+1008 765 763 nan nan nan nan nan 5 190 33 
+3544 2917 2868 nan 17 27 nan 46 93 290 198 
+2083 1499 1472 nan nan 9 11 13 66 340 165 
+6691 4751 4667 8 25 37 14 201 484 905 350 
+1307 1155 1136 nan nan 6 nan 12 11 58 71 
+4341 2873 2732 6 41 75 19 134 406 604 324 
+3298 1984 1948 nan 27 nan nan 77 286 725 226 
+29902 19281 17878 49 554 749 51 1155 3043 4783 1640 
+2459 1773 1765 nan nan nan nan 37 39 408 202 
+8863 6101 5919 15 51 92 24 292 479 1288 703 
+5938 3705 3666 nan 27 nan 7 141 276 1187 629 
+6877 5406 5369 nan 20 12 5 168 268 740 295 
+5822 4475 4462 6 nan nan nan 80 88 937 242 
+12416 8433 8220 161 25 16 11 353 856 1947 827 
+2595 1997 1987 nan nan nan nan 55 73 336 134 
+2217 2016 627 1387 nan nan nan 11 37 nan 70 
+2302 2117 1727 388 nan nan nan nan 9 88 79 
+15665 10923 10234 13 309 342 25 432 1360 2032 918 
+3492 2437 2408 nan nan 10 nan 87 87 765 116 
+9629 5779 5629 26 50 65 9 328 698 2240 584 
+356 332 50 282 nan nan nan nan nan nan 11 
+2622 1910 1884 nan nan nan 7 60 125 316 211 
+10121 5185 4301 7 264 568 45 520 1904 1894 618 
+4038 2856 2631 5 nan 138 nan 88 364 490 240 
+11990 6750 6492 nan nan 187 17 533 2109 1955 643 
+5445 3400 3009 11 205 169 6 219 531 914 381 
+14234 10440 10063 5 132 229 11 260 705 1727 1102 
+13567 10178 9931 26 95 108 18 329 543 1790 727 
+14549 7911 6418 23 648 801 21 693 2553 2085 1307 
+21620 13803 8087 36 1723 3885 72 910 2385 3185 1337 
+638 475 466 nan nan nan nan 10 27 103 23 
+2206 1589 1587 nan nan nan nan nan 30 391 179 
+26477 18283 16532 25 572 1107 47 853 2140 3778 1423 
+5978 4187 3883 5 160 132 7 173 459 796 363 
+6502 4354 4289 nan 14 45 nan 151 253 1258 486 
+4472 3336 3270 nan nan 28 nan 104 327 439 266 
+570 516 503 12 nan nan nan nan nan 38 13 
+16292 9763 8816 22 446 445 34 630 2127 2510 1262 
+3515 2288 2259 nan nan 16 nan 181 268 584 194 
+4451 3385 3273 17 41 45 9 72 239 534 221 
+47539 26422 22017 113 2144 2036 112 1949 8842 6342 3984 
+629 466 458 nan nan nan nan 10 64 57 32 
+3406 2614 2597 nan nan nan 7 68 79 440 205 
+51225 31875 26300 67 3644 1711 153 2104 6800 7536 2910 
+5247 3391 3131 22 134 74 30 304 569 669 314 
+3663 2842 2828 10 nan nan nan 61 88 418 254 
+27586 18853 18096 20 203 475 59 760 1801 4284 1888 
+4317 2804 2777 5 nan nan 5 149 241 840 283 
+1683 1481 1152 323 nan nan nan 21 9 104 68 
+13730 9136 8954 10 85 71 16 459 926 2244 965 
+11159 7691 7606 35 nan 29 nan 244 433 2010 781 
+11151 8975 8692 192 32 46 13 143 667 907 459 
+19120 12992 12109 14 449 376 44 589 1620 2585 1334 
+265881 133902 104219 796 14687 13268 932 13384 51109 45233 22253 
+2701 2008 1978 nan 17 6 7 79 66 419 129 
+11720 8232 8161 28 10 26 7 271 482 1760 975 
+11343 7846 7335 14 224 252 21 387 1167 1434 509 
+3640 2498 2441 nan 33 18 nan 131 419 476 116 
+1958 1610 1604 nan nan nan nan 15 47 196 90 
+3145 2211 2182 nan nan nan 20 120 99 583 132 
+1609 1355 1351 nan nan nan nan nan 14 145 54 
+4972 3733 3643 nan 29 55 nan 94 188 696 261 
+4005 2530 2516 nan 5 nan nan 128 123 982 242 
+110668 56951 51493 364 2420 2337 337 4799 14914 24305 9699 
+3798 3058 3043 7 nan nan nan 22 40 510 168 
+14161 9028 8060 25 447 468 28 534 1595 2222 782 
+6662 4423 4071 13 141 186 12 229 586 988 436 
+8123 5374 5252 nan nan 42 nan 262 594 1209 684 
+3966 2666 2524 6 53 72 11 141 283 615 261 
+5915 3393 3282 15 31 47 18 230 418 1513 361 
+4741 3016 2861 nan nan 72 8 154 474 745 352 
+2702 2058 2036 nan 11 6 nan 36 73 280 255 
+4666 3373 3362 6 nan nan nan 119 162 785 227 
+4508 3555 3500 nan nan 40 nan 82 177 497 197 
+6151 5511 3095 2395 nan nan nan 28 177 289 146 
+6231 4832 4747 7 20 53 5 119 243 731 306 
+20080 14865 11846 2790 96 94 39 402 1618 2130 1065 
+3640 2700 2687 nan nan nan 5 92 122 606 120 
+4899 3532 3374 6 60 79 13 168 364 638 197 
+2711 2041 2001 6 nan 10 nan 60 65 421 124 
+35640 19277 17493 15 1064 640 65 1670 5444 6289 2960 
+40925 24119 22475 180 813 604 47 1794 4830 6524 3658 
+1619 1485 1474 7 nan nan nan 5 nan 64 61 
+3866 2425 2416 nan nan nan nan 115 68 678 580 
+17095 12205 12152 26 15 6 6 325 602 2726 1237 
+332 277 277 nan nan nan nan nan nan 28 15 
+7244 4462 4385 7 19 40 11 176 362 1356 888 
+16758 8126 6953 46 518 565 44 874 3162 2372 2224 
+5926 4644 4144 nan 325 164 nan 96 232 550 404 
+3224 2330 2324 nan nan nan nan 68 65 366 395 
+1820 1348 1344 nan nan nan nan 20 37 307 108 
+2709 1920 1902 nan nan nan 12 74 79 513 123 
+5417 3738 3649 nan nan 36 5 138 248 908 385 
+14581 9537 7775 15 947 778 22 583 1621 1883 957 
+4514 3064 2928 nan 69 61 nan 127 318 802 203 
+3200 2452 2395 nan nan 24 nan 87 198 314 149 
+6621 4647 4446 nan 107 nan 18 218 325 1090 341 
+23242 13028 12687 47 85 161 48 812 2552 5110 1740 
+6281 5491 2088 3381 16 nan nan 48 123 342 277 
+5859 3563 3500 6 16 34 7 210 404 1253 429 
+4617 2827 2711 nan nan 49 nan 166 494 865 265 
+5265 3575 3487 60 16 nan 12 158 320 888 324 
+6148 4421 4376 11 9 12 13 145 217 1032 333 
+18164 10825 10014 44 421 270 76 786 1958 3500 1095 
+12248 7755 7233 14 316 158 34 458 1004 2133 898 
+1215 884 883 nan nan nan nan nan 13 200 91 
+9266 7179 6921 nan 106 127 nan 239 580 897 371 
+1254 1008 1005 nan nan nan nan nan 17 151 62 
+10544 7371 7212 nan nan 76 6 275 424 1606 868 
+3399 3154 2687 459 nan nan nan 13 31 69 132 
+3191 2327 2318 nan nan nan nan 41 84 550 189 
+7351 4134 3945 11 68 102 8 319 697 1601 600 
+4587 2851 2824 7 nan nan nan 155 269 985 327 
+3710 2654 2571 9 32 35 7 91 238 474 253 
+17726 12155 11905 6 97 124 23 411 972 2652 1536 
+11842 6190 5543 10 298 322 17 615 1935 2281 821 
+16779 11576 11273 29 90 169 15 531 1090 2644 938 
+29285 17546 17278 45 101 84 38 923 1814 6415 2587 
+13612 9386 9232 15 31 83 25 346 646 2324 910 
+2038 1647 1634 nan nan 7 nan 44 61 193 93 
+548 485 483 nan nan nan nan nan 6 38 17 
+3955 2371 2337 5 nan 16 nan 92 132 897 463 
+2282 1830 1818 7 nan nan nan 11 37 264 140 
+1209 1003 1000 nan nan nan nan nan 8 131 61 
+2883 2162 2148 14 nan nan nan 65 42 381 233 
+1718 1613 1120 486 nan nan nan 7 14 51 33 
+6269 3458 3161 nan 159 122 nan 262 891 1175 483 
+8531 6552 6378 12 78 75 9 192 511 894 382 
+8074 5175 5116 14 23 11 11 300 356 1558 685 
+6583 4795 4739 8 22 15 11 134 332 855 467 
+18470 13401 13240 9 76 62 14 456 602 2896 1115 
+3035 2050 2041 nan nan nan nan 133 47 471 334 
+22093 15253 13943 14 567 686 43 701 1896 2925 1318 
+7119 4566 4299 nan 116 124 nan 256 774 1039 484 
+9662 7114 7066 nan nan 13 7 198 275 1281 794 
+2909 2234 2174 nan nan 18 9 60 90 420 105 
+8254 6454 5929 8 174 338 5 204 297 764 535 
+4060 2697 2456 nan 109 123 9 147 170 709 337 
+1494 1091 1077 nan nan 10 nan 22 34 258 89 
+4189 3663 3173 481 nan nan nan 46 52 306 122 
+12198 7816 7396 6 230 158 26 571 1319 1646 846 
+18248 9637 7848 23 510 1192 64 812 3286 3373 1140 
+18424 12734 12580 14 56 67 17 414 1135 2702 1439 
+1208 908 907 nan nan nan nan nan 11 183 90 
+3385 1749 1640 11 48 42 8 188 640 571 237 
+15151 10405 9293 25 452 606 29 618 1231 1996 901 
+3422 3038 3016 12 nan 5 nan 17 21 206 140 
+33331 22432 17826 52 1619 2895 40 1022 3042 4552 2283 
+1511 1361 1354 7 nan nan nan 10 10 48 82 
+3735 2579 2541 nan nan 13 7 107 287 510 252 
+1354 890 853 nan 14 18 nan 26 53 262 123 
+5283 3890 3876 nan nan nan 6 77 73 876 367 
+5185 4096 3984 nan nan 45 6 142 240 421 286 
+2317 1662 1651 nan nan nan nan 34 31 421 169 
+3871 2868 2809 nan nan 35 10 111 176 480 236 
+7825 5698 5653 9 17 14 5 168 184 1136 639 
+2457 1912 1888 nan nan 11 nan 55 56 285 149 
+17729 10721 9643 44 537 471 26 830 2407 2633 1138 
+2786 2098 2067 nan nan 20 5 88 99 414 87 
+17067 10245 9250 9 164 797 25 801 1905 3049 1067 
+1338 1020 1010 nan nan nan nan 12 24 159 123 
+6245 4275 4145 7 nan 80 nan 122 185 1217 446 
+20335 12956 12381 22 291 223 39 733 1770 3413 1463 
+6811 5431 5278 10 nan 88 nan 128 270 781 201 
+1364 832 830 nan nan nan nan nan 5 267 255 
+4868 3265 3241 nan nan 10 nan 204 540 640 219 
+4071 2523 2461 nan nan 20 6 165 541 720 122 
+4579 3456 3428 nan nan 23 nan 105 138 502 378 
+;
